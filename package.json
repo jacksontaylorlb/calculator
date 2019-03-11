@@ -1,0 +1,17 @@
+{
+  "name": "expresscalculator",
+  "version": "1.0.0",
+  "description": "express calc",
+  "main": "calculator.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "newcalc"
+  },
+  "author": "jackson taylor",
+  "license": "ISC"
+}
